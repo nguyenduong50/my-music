@@ -429,7 +429,7 @@ body::-webkit-scrollbar{
 }
 
 .container_header--content_search.active_icon:after{
-    content: "Trang web hiện tại chưa được hoàn thiện, bạn vui lòng thông cảm !";
+    content: "Tìm kiếm giề, có phải Zing MP3 đâu !";
     font-size: 14px;
     line-height: 24px;
     position: absolute;
