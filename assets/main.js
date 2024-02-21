@@ -942,57 +942,66 @@
 
         songs: [
                 {
-                    name: 'Rời Tới Luôn',
-                    singer_first: 'Nal', 
-                    singer_second: '',    
-                    singer_third: '', 
-                    path: './assets/music/song1.mp3', 
-                    image: './assets/img/image1.jpg',
-                    time: '04.02'
+                    name: 'Tình yêu diệu kỳ',
+                    singer_first: 'Bùi Công Nam',
+                    singer_second: '',  
+                    singer_third: '',
+                    path: './assets/music/tinh-yeu-dieu-ky-bui-cong-nam.mp3',
+                    image: './assets/img/tinh-yeu-dieu-ky-bui-cong-nam.jpg',
+                    time: '03.08'
+                },
+                {
+                    name: 'Ta là của nhau',
+                    singer_first: 'Đông Nhi',
+                    singer_second: '',  
+                    singer_third: '',
+                    path: './assets/music/ta-la-cua-nhau-dong-nhi-ong-cao-thang.mp3',
+                    image: './assets/img/ta-la-cua-nhau-dong-nhi-ong-cao-thang.jpg',
+                    time: '02.59'
                 },
                 {
                     name: 'Thiên Đàng ft JOLIPOLI',
                     singer_first: 'WOWY',
                     singer_second: '',  
                     singer_third: '', 
-                    path: './assets/music/song2.mp3',
-                    image: './assets/img/image2.jpg',
+                    path: './assets/music/thien-dang-wowy.mp3',
+                    image: './assets/img/thien-dang-wowy.jpg',
                     time: '03.46'
-                },
-                {
-                    name: 'Something Just Like',
-                    singer_first: 'The Chainsmokers',
-                    singer_second: '',  
-                    singer_third: '', 
-                    path: './assets/music/song3.mp3',
-                    image: './assets/img/image3.jpg',
-                    time: '06.36'
-                },
-                {
-                    name: 'Reality',
-                    singer_first: 'Janieck Devy',
-                    singer_second: '',  
-                    singer_third: '',
-                    path: './assets/music/song4.mp3',
-                    image: './assets/img/image4.jpg',
-                    time: '02.49'
                 },
                 {
                     name: 'Chim sẻ dâu tây',
                     singer_first: 'Dế Choắt',
                     singer_second: 'Naomi',  
                     singer_third: 'Wowy',
-                    path: './assets/music/song5.mp3',
-                    image: './assets/img/image5.jpg',
+                    path: './assets/music/chim-se-dau-tay-de-choat.mp3',
+                    image: './assets/img/chim-se-dau-tay-de-choat.jpg',
                     time: '03.28'
+                },
+                {
+                    name: 'Rời Tới Luôn',
+                    singer_first: 'Nal', 
+                    singer_second: '',    
+                    singer_third: '', 
+                    path: './assets/music/roi-toi-luon-nal.mp3', 
+                    image: './assets/img/roi-toi-luon-nal.jpg',
+                    time: '04.02'
+                },
+                {
+                    name: 'Anh ơi ở lại',
+                    singer_first: 'Chi Pu',
+                    singer_second: '',  
+                    singer_third: '',
+                    path: './assets/music/anh-oi-o-lai-chi-pu.mp3',
+                    image: './assets/img/anh-oi-o-lai-chi-pu.jpg',
+                    time: '04.52'
                 },
                 {
                     name: 'Khác biệt to lớn',
                     singer_first: 'Trịnh Thăng Bình',
                     singer_second: 'Liz Kim Cương',  
                     singer_third: '',
-                    path: './assets/music/song6.mp3',
-                    image: './assets/img/image6.jpg',
+                    path: './assets/music/khac-biet-to-lon-trinh-thang-binh.mp3',
+                    image: './assets/img/khac-biet-to-lon-trinh-thang-binh.jpg',
                     time: '04.00'
                 },
                 {
@@ -1000,8 +1009,8 @@
                     singer_first: 'Jack',
                     singer_second: '',  
                     singer_third: '',
-                    path: './assets/music/song7.mp3',
-                    image: './assets/img/image7.jpg',
+                    path: './assets/music/song-gio-jack.mp3',
+                    image: './assets/img/song-gio-jack.jpg',
                     time: '04.14'
                 },
                 {
@@ -1009,8 +1018,8 @@
                     singer_first: 'Jack',
                     singer_second: '',  
                     singer_third: '',
-                    path: './assets/music/song8.mp3',
-                    image: './assets/img/image8.jpg',
+                    path: './assets/music/bac-phan-jack.mp3',
+                    image: './assets/img/bac-phan-jack.jpg',
                     time: '04.09'
                 },
                 {
@@ -1018,37 +1027,55 @@
                     singer_first: 'Ellie Goulding',
                     singer_second: '',  
                     singer_third: '',
-                    path: './assets/music/song9.mp3',
-                    image: './assets/img/image9.jpg',
+                    path: './assets/music/love-me-like-you-do.mp3',
+                    image: './assets/img/love-me-like-you-do.jpg',
                     time: '04.10'
                 },
                 {
-                    name: 'Quan shi ai',
-                    singer_first: 'Phoenix legend',
+                    name: 'Something Just Like',
+                    singer_first: 'The Chainsmokers',
                     singer_second: '',  
-                    singer_third: '',
-                    path: './assets/music/song10.mp3',
-                    image: './assets/img/image10.jpg',
-                    time: '04.14'
+                    singer_third: '', 
+                    path: './assets/music/something-just-like.mp3',
+                    image: './assets/img/something-just-like.jpg',
+                    time: '06.36'
                 },
                 {
-                    name: 'Thương ly biệt',
-                    singer_first: 'Ngụy Tân Vũ',
+                    name: 'Reality',
+                    singer_first: 'Janieck Devy',
                     singer_second: '',  
                     singer_third: '',
-                    path: './assets/music/song11.mp3',
-                    image: './assets/img/image11.jpg',
-                    time: '04.02'
+                    path: './assets/music/reality-janieck-devy.mp3',
+                    image: './assets/img/reality-janieck-devy.jpg',
+                    time: '02.49'
                 },
-                {
-                    name: 'Phi điểu và ve sầu',
-                    singer_first: 'Nhậm Thiên',
-                    singer_second: '',  
-                    singer_third: '',
-                    path: './assets/music/song12.mp3',
-                    image: './assets/img/image12.jpg',
-                    time: '04.56'
-                },
+                // {
+                //     name: 'Quan shi ai',
+                //     singer_first: 'Phoenix legend',
+                //     singer_second: '',  
+                //     singer_third: '',
+                //     path: './assets/music/quan-shi-ai.mp3',
+                //     image: './assets/img/quan-shi-ai.jpg',
+                //     time: '04.14'
+                // },
+                // {
+                //     name: 'Thương ly biệt',
+                //     singer_first: 'Ngụy Tân Vũ',
+                //     singer_second: '',  
+                //     singer_third: '',
+                //     path: './assets/music/thuong-ly-biet-nguy-tan-vu.mp3',
+                //     image: './assets/img/thuong-ly-biet-nguy-tan-vu.jpg',
+                //     time: '04.02'
+                // },
+                // {
+                //     name: 'Phi điểu và ve sầu',
+                //     singer_first: 'Nhậm Thiên',
+                //     singer_second: '',  
+                //     singer_third: '',
+                //     path: './assets/music/phi-dieu-va-ve-sau-nham-thien.mp3',
+                //     image: './assets/img/phi-dieu-va-ve-sau-nham-thien.jpg',
+                //     time: '04.56'
+                // },
             ],
 
 
